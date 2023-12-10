@@ -18,7 +18,7 @@
 
 
  🎓 Atualmente estou estudando no projeto "Explorer" da Rocketseat. <br>
- 🎓 Sou graduado em Analise e Desenvolvimento de Sistemas. <br>
+ 🎓 Sou graduada em Analise e Desenvolvimento de Sistemas. <br>
  📫 Contacte-me no email: helenaantoni03@gmail.com <br>
 
     
