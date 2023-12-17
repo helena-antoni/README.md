@@ -32,7 +32,7 @@
   <br> 
   <br>  
 
-📫 Contacte-te comigo: <br> 
+📫 Connect with me: <br> 
 
   <div>
     <a href="mailto:helena-antoni03@gmail.com">
